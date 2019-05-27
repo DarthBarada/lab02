@@ -81,7 +81,7 @@ $ git commit -m"added README.md"
  create mode 100644 README.md
 $ git push origin master
 Username for 'https://github.com': DarthBarada
-Password for 'https://Toliak@github.com': 
+Password for 'https://DarthBarada@github.com': 
 Enumerating objects: 4, done.
 Counting objects: 100% (4/4), done.
 Delta compression using up to 4 threads
@@ -109,7 +109,7 @@ remote: Counting objects: 100% (4/4), done.
 remote: Compressing objects: 100% (2/2), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (3/3), done.
-From https://github.com/Toliak/lab02
+From https://github.com/DarthBarada/lab02
  * branch            master     -> FETCH_HEAD
    44830ab..c52a23e  master     -> origin/master
 Updating 44830ab..c52a23e
